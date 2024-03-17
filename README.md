@@ -7,7 +7,7 @@ This repository is dedicated to the exercises from the "Functional Programming w
 The course on "Functional Programming with Java" offered a thorough examination of functional programming principles within the Java framework. From introductory topics like lambda expressions and stream operations to more advanced subjects such as functional interfaces and data handling, the course substantially broadened my skills and understanding of functional programming in Java.
 
 ## Repository Insights
-Comprehensive Exercise Solutions: This repository is home to my answers to a broad array of exercises covering essential functional programming concepts such as lambda expressions, stream operations, and functional interfaces, offering a practical learning experience.
+- Comprehensive Exercise Solutions: This repository is home to my answers to a broad array of exercises covering essential functional programming concepts such as lambda expressions, stream operations, and functional interfaces, offering a practical learning experience.
 
 - Getting Started with Functional Programming: This section includes exercises that familiarized me with functional programming's foundational concepts in Java, from crafting my initial functional program to applying filters and lambda expressions for optimized data handling.
 
